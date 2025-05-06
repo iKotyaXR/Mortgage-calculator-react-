@@ -1,0 +1,12 @@
+.container {
+  display: flex;
+  background-color: white;
+  border-radius: 16px;
+}
+
+.form {
+  padding: 16px;
+}
+
+.form__header {
+}

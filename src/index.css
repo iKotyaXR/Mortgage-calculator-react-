@@ -1,1 +1,15 @@
-/* styles-here */
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+}
+
+#root {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
